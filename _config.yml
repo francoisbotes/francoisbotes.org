@@ -59,6 +59,7 @@ prose:
         field:
           element: "multiselect"
           label: "Add categories"
+          help: "Select one of the categories. Feature Video will display on the front page. Video category will place the video in the media link."
           placeholder: "Choose categories"
           value: video
           options:
