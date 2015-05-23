@@ -90,6 +90,7 @@ prose:
         field:
           element: "multiselect"
           label: "Add categories"
+          help: "Please select both categories in the following order Calendar,Meeting. This will place the metting into the Calendar link."
           placeholder: "Choose categories"
           options:
             - name: "Calendar"
@@ -134,6 +135,7 @@ prose:
         field:
           element: "multiselect"
           label: "Add categories"
+          help: "Select German first and then one of the other two categories. This will place the video in the German translated section under the media link."
           placeholder: "Choose categories"
           options:
             - name: "German"
@@ -165,6 +167,7 @@ prose:
         field:
           element: "multiselect"
           label: "Add categories"
+          help: " Select all three categories in the following order German,Calendar,Meeting. This will place the meeting in the Germen section under the calander link."
           placeholder: "Choose categories"
           options:
             - name: "German"
