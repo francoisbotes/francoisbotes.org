@@ -1,0 +1,55 @@
+<!-- ====== Top Menu Section ====== -->
+{% if page.lang == 'en' %}
+  {% assign lang = '' %}
+{% else %}
+  {% capture lang %}/{{page.lang}}{% endcapture %}
+{% endif %}
+<section id="top-menu">
+  <div class="navigation">
+  <div class="row"
+    <div class="col-sm-6 col-md-12">
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fbm-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{site.baseurl}}/{% if page.lang == 'de' %}de{% endif %}">
+          <img src="{{site.baseurl}}/assets/images/botes_logo.svg" width="200" height="51" alt="francoisbotes.org">
+            </a>
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="fbm-navbar-collapse-1" >
+            {% if page.lang == 'de' %}
+            <ul class="nav navbar-nav navbar-right">
+              <li><a class="fa fa-globe" href='{{site.baseurl}}{{page.url | replace_first:'/de', ''}}'> EN</a></li>
+              <li><a href="{{site.baseurl}}/de/">Zuhause</a></li>
+              <li><a href="{{site.baseurl}}/de/about/">Über</a></li>
+              <li><a href="{{site.baseurl}}/de/media/">Medien</a></li>
+              <li><a href="{{site.baseurl}}/de/support/">Unterstützung</a></li>
+              <li><a href="{{site.baseurl}}/de/calendar/">Kalender</a></li>
+              <li><a href="{{site.baseurl}}/de/contact">Kontakt</a></li>
+            </ul>
+            {% else %}
+            <ul class="nav navbar-nav navbar-right">
+              <li><a class="fa fa-globe " href='{{site.baseurl}}/de{{page.url}}'> DE</a></li>
+              <li><a href="{{site.baseurl}}/">Home</a></li>
+              <li><a href="{{site.baseurl}}/about/">About</a></li>
+              <li><a href="{{site.baseurl}}/media/">Media</a></li>
+              <li><a href="{{site.baseurl}}/support/">Support</a></li>
+              <li><a href="{{site.baseurl}}/calendar/">Calendar</a></li>
+              <li><a href="{{site.baseurl}}/contact">Contact</a></li>
+            </ul>
+            {% endif %}
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+      </nav>
+    </div>
+  </div>
+</section>
+<!-- ====== End Top Menu Section ====== -->

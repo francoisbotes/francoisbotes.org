@@ -1,0 +1,61 @@
+<!-- ====== meetings Section ====== -->
+<section id="meetings">
+  <div class="meetings section-padding">
+    <div class="container">
+
+      <div class="header">
+        {% if page.lang == 'de' %}
+        <h1>Eingehende Sitzungs</h1>
+        <p>Die nächsten Sitzungen wird Ihnen getwittert werden, sollten Sie Interesse registrieren Sie sich bitte auf der Startseite mit unserem Twitter-Konto</p>
+        <p><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="http://platform.twitter.com/widgets/follow_button.50005fe33691ad15041f7199457ac3e0.en.html#_=1432104874092&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=BotesFrancois&amp;show_count=true&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="position: static; visibility: visible; width: 225px; height: 20px;"></iframe></p>
+        <div class="underline">
+          <i class="fa fa-calendar"></i>
+        </div>
+        {% else %}
+        <h1>Upcomming meetings</h1>
+        <p>Upcoming meetings will be tweeted to you should you be interested please register on the opening page with our twitter account</p>
+        <p><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="http://platform.twitter.com/widgets/follow_button.50005fe33691ad15041f7199457ac3e0.en.html#_=1432104874092&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=BotesFrancois&amp;show_count=true&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="position: static; visibility: visible; width: 225px; height: 20px;"></iframe></p>
+        <div class="underline">
+          <i class="fa fa-calendar"></i>
+        </div>        
+        {% endif %}
+      </div> <!-- end .container> .header -->
+
+      <div class="row">
+        <div class="col-md-12 meeting-list">
+          <div class="row">
+            {% for post in site.categories.meeting %}
+             {% if post.lang == page.lang %}
+            <div class="col-sm-6 col-md-4">
+              <div class="meetingd-item">
+                <div class="icon">
+                  <div class="icon-style"><i class="fa fa-calendar"></i></div>
+                </div> <!-- end icon -->
+                <div class="meta-text">
+                  <h3>{{post.title}}</h3>
+                  <h4>{{post.meeting-date}}</h4>
+                  <h4>{{post.city}}</h4>
+                  <h4>{{post.venue}}</h4>
+                  <p><a href="http://{{post.website}}">{{post.website}}</a></p>
+                  <div class="button" id="download-app2">
+                    {% if page.lang == 'de' %}
+                    <a <a href="{{site.baseurl}}{{post.url}}/" class="btn btn-default btn-lg custom-btn get-btn"><i class="fa fa-read"></i>Weiterlesen</a>
+                    {% else %}
+                    <a <a href="{{site.baseurl}}{{post.url}}/" class="btn btn-default btn-lg custom-btn get-btn"><i class="fa fa-read"></i>Read more</a>
+                    {% endif %}
+                  </div>
+                  <p>{{post.description}}</p>
+
+                </div> <!-- end .meta-text -->
+              </div> <!-- end .meetingd-item -->
+            </div> <!-- end .meeting-list> .row > .col-md-6 (1st item) -->
+             {% endif %}
+            {% endfor %}
+          </div> <!-- end .meeting-list> .row -->
+        </div> <!-- end .meeting-list -->
+      </div> <!-- end .container> .row -->
+
+    </div> <!-- end .container -->
+  </div> <!-- end .meetings -->
+</section>
+<!-- ====== End meetings Section ====== -->

@@ -1,0 +1,198 @@
+baseurl: 
+permalink: /:categories/:title
+markdown: rdiscount
+exclude:
+- .gitignore
+- README.md
+- privatekey.p12
+- Gemfile
+- Gemfile.lock
+languages: &languages
+  - name: 'English'
+    value: 'en'
+  - name: 'German'
+    value: 'de'
+gems:
+  - jekyll-sitemap
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://francoisbotes.github.io/francoisbotes.org/'
+  relativeLinks: 'http://francoisbotes.github.io/francoisbotes.org/links.jsonp'
+  media: 'assets/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts/de:
+      - name: layout
+        field:
+          element: hidden
+          value: page
+      - name: title
+        field:
+          element: text
+          label: "Page title"
+          value: ""
+      - name: lang
+        field:
+          element: "hidden"
+          value: "de"
+      - name: link
+        field:
+          element: text
+          label: "Web site link"
+          value: ""
+    _posts/video:
+      - name: layout
+        field:
+          element: hidden
+          value: media
+      - name: title
+        field:
+          element: text
+          label: "Page title"
+          value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          value: video
+          options:
+            - name: "Feature Video"
+              value: feature-video
+            - name: "Video"
+              value: video
+      - name: lang
+        field:
+          element: "hidden"
+          value: "en"
+      - name: website
+        field:
+          element: text
+          label: "Web site link"
+          value: ""
+    _posts/meeting:
+      - name: layout
+        field:
+          element: hidden
+          value: calendar
+      - name: title
+        field:
+          element: text
+          label: "Page title"
+          value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          options:
+            - name: "Calendar"
+              value: calendar
+            - name: "Meeting"
+              value: meeting
+      - name: lang
+        field:
+          element: "hidden"
+          value: "en"
+      - name: city
+        field:
+          element: text
+          label: "Meeting City"
+          value: ""
+      - name: meeting-date
+        field:
+          element: text
+          label: "Meeting date"
+          value: ""
+      - name: venue
+        field:
+          element: text
+          label: "Meeting venue"
+          value: ""
+      - name: website
+        field:
+          element: text
+          label: "Web site link"
+          value: ""
+    _posts/video/de:
+      - name: layout
+        field:
+          element: hidden
+          value: media
+      - name: title
+        field:
+          element: text
+          label: "Page title"
+          value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          options:
+            - name: "German"
+              value: de
+            - name: "Feature Video"
+              value: feature-video
+            - name: "Video"
+              value: video
+      - name: lang
+        field:
+          element: "hidden"
+          value: "de"
+      - name: website
+        field:
+          element: text
+          label: "Web site link"
+          value: ""
+    _posts/meeting/de:
+      - name: layout
+        field:
+          element: hidden
+          value: calendar
+      - name: title
+        field:
+          element: text
+          label: "Page title"
+          value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          options:
+            - name: "German"
+              value: de
+            - name: "Calendar"
+              value: calendar
+            - name: "Meeting"
+              value: meeting
+      - name: lang
+        field:
+          element: "hidden"
+          value: "de"
+      - name: city
+        field:
+          element: text
+          label: "Meeting City"
+          value: ""
+      - name: meeting-date
+        field:
+          element: text
+          label: "Meeting date"
+          value: ""
+      - name: venue
+        field:
+          element: text
+          label: "Meeting venue"
+          value: ""
+      - name: website
+        field:
+          element: text
+          label: "Web site link"
+          value: ""

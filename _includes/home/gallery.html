@@ -1,0 +1,39 @@
+<!-- ====== Gallery Section ====== -->
+<section id="gallerys">
+  <div class="gallerys section-padding dark-bg">
+    <div class="container">
+      {% if page.lang == "de" %}
+      <div class="header">
+        <h1>Media Gallery</h1>
+        <p>Werfen Sie einen Blick auf einige Live-Sitzungen durch die Beteiligung an einem virtuellen Rundgang. Es ermöglicht Ihnen, zu erforschen und zu entdecken, verschiedene vorangegangenen Sitzungen. Sehen Sie diesen Platz für neue Nachrichten werden in Kürze folgen.</p>
+        <div class="underline"><i class="fa fa-file-video-o"></i></div>
+      </div>
+       {% else %}
+      <div class="header">
+        <h1>Media Gallery</h1>
+        <p>Take a look at some live meetings by joining a virtual tour . It will enable you to explore and discover different previous meetings. Watch this space as new postings will follow soon.</p>
+        <div class="underline"><i class="fa fa-file-video-o"></i></div>
+      </div>       
+       {% endif %}
+      <div class="col-md-12 meeting-list">
+        <div class="row">
+          {% for post in site.categories.video %}
+          {% if post.lang == page.lang %}
+          <div class="col-sm-6 col-md-12">
+            <div class="meetingd-item">
+              <div class="meta-text">
+                <h1>{{post.title}}</h1>
+                <div class="embed-responsive embed-responsive-4by3">
+                <p>{{post.content}}</p>
+              </div>
+              </div> <!-- end .meta-text -->
+            </div> <!-- end .meetingd-item -->
+          </div> <!-- end .meeting-list> .row > .col-md-6 (1st item) -->
+          {% endif %}
+          {% endfor %}
+        </div> <!-- end .row -->
+      </div> <!-- end .meeting-list -->
+    </div> <!-- .container -->
+  </div> <!-- end .gallery -->
+</section>
+<!-- ====== End Gallery Section ====== -->

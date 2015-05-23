@@ -1,0 +1,104 @@
+<!-- ====== Description Section ====== -->
+<section id="description">
+  <div class="description">
+    <div class="description-one section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-7 col-md-6">
+            <div class="content">
+              {% if page.lang == 'de' %}
+              <h1>Willkommen</h1>
+              <h4>To Francois Botes Prophetische Music Ministry</h4>
+              <p>Er wurde in Südafrika geboren. Nach dem Studium der klassischen Klavier und Gesang an der Universität er wieder im Jahr 1980. Im Jahr 1988 geboren wurde, begann er Vollzeitdienst und jetzt Minister weltweit durch Gottesdienst, Unterricht und das Prophetische Ministerium.
+
+            <br>
+              <br>
+              Er wird in das Vereinigte Königreich aus, wo er reist zu den Enden der Erde basiert.
+              </p>
+              {% else %}
+              <h1>Welcome</h1>
+              <h4>To Francois Botes Prophetic Music Ministry</h4>
+              <p>He was born in South Africa. After studying classical Piano and singing at University he got born again in 1980. In 1988 he started full-time ministry and now ministers worldwide in Worship, Teaching and the Prophetic Ministry.
+
+            <br>
+              <br>
+              He is based in the United Kingdom from where he travels to the ends of the earth.
+              </p>              
+              {% endif %}
+              
+              {% if page.lang == 'de' %}
+              <div class="button" id="download-app2">
+                <a href="{{site.baseurl}}/de/about/" class="btn btn-default btn-lg custom-btn get-btn"><i class="fa fa-cloud-download"></i>Weiterlesen</a>
+              </div>
+              {% else %}
+              <div class="button" id="download-app2">
+                <a href="{{site.baseurl}}/about/" class="btn btn-default btn-lg custom-btn get-btn"><i class="fa fa-cloud-download"></i>Read more</a>
+              </div>
+              {% endif %}
+            </div>
+          </div>
+          <div class="col-sm-5 col-md-6">
+            <div class="content">
+              {% if page.lang == 'de' %}
+              <h1>Bibel-Vers für heute</h1>
+                        <script type="text/javascript" language="JavaScript" src="https://www.biblegateway.com/votd/votd.write.callback.js">
+            </script>
+            <script type="text/javascript" language="JavaScript" src="https://www.biblegateway.com/votd/get?format=json&version=NIV&callback=BG.votdWriteCallback">
+            </script>
+            <!-- alternative for no javascript -->
+            <noscript>
+            <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get?format=html&version=NIV">Ansicht Verse des Tages</iframe>
+            </noscript>
+            {% else %}
+              <h1>Bible verse for today</h1>
+                        <script type="text/javascript" language="JavaScript" src="https://www.biblegateway.com/votd/votd.write.callback.js">
+            </script>
+            <script type="text/javascript" language="JavaScript" src="https://www.biblegateway.com/votd/get?format=json&version=NIV&callback=BG.votdWriteCallback">
+            </script>
+            <!-- alternative for no javascript -->
+            <noscript>
+            <iframe framespacing="0" frameborder="no" src="https://www.biblegateway.com/votd/get?format=html&version=NIV">View Verse of the Day</iframe>
+            </noscript>
+            {% endif %}
+            </div>
+          </div>
+        </div> <!-- .container> .row -->
+      </div> <!-- .container -->
+    </div> <!-- end .description-one -->
+
+    <div class="description-two section-padding dark-bg">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-sm-7 col-md-6">
+            {% if page.lang == 'de' %}
+            <div class="content">
+              <h1>Hyper Gnade Teachings</h1>
+              <p>Ich glaube, dass wir als Christen sind wir aufgerufen, ein Leben der Buße zu leben, und ich weiß nicht in den Lehren, die wir unser Heil nicht verlieren glauben. Gott bewahre, aber ich glaube, dass es möglich ist, unsere Erlösung durch kontinuierliche, gewöhnlichen, unrepented Ungehorsam verlieren. Wir bitten Gott um Gnade nahe bei Jesus zu bleiben und uns gewähren täglich Gnade, gehorsam zu sein, um das gesamte Wort Gottes, Alten und Neuen Testament, bis ans Ende, die Gott für uns entschieden hat. Wir sind in den letzten Tagen leben und falschen Lehren werden viele verführen, aber das Wort des Herrn für immer durchzuhalten.</p>
+            </div> <!-- end .content -->
+            {% else %}
+            <div class="content">
+              <h1>Hyper Grace Teachings</h1>
+              <p>I believe that as Christians we are called to live a life of repentance, and I do not believe in the teachings that we cannot lose our salvation. God forbid, but I believe that it is possible to lose our salvation through continual,habitual,unrepented disobedience. We ask God for grace to stay close to Jesus and to grant us daily Grace to be obedient to the entire Word of God, Old and New Testament ,unto the end that God has chosen for us. We are living in the last days and false teachings will deceive many, but the Word of the Lord will endure forever.</p>
+            </div> <!-- end .content -->            
+            {% endif %}
+          </div> <!-- .container> .row> .col-md-6 -->
+
+          <div class="col-sm-5 col-md-6">
+            {% for post in site.categories.feature-video %}
+            {% if post.lang == page.lang %}
+            <h1>{{post.title}}</h1>
+            <div class="embed-responsive embed-responsive-4by3">
+            <p>{{post.content}}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div> <!-- .container> .row> .col-md-6 -->
+
+        </div> <!-- .container> .row -->
+      </div> <!-- .container -->
+    </div> <!-- end .description-two -->
+
+  </div> <!-- end .description -->
+</section>
+<!-- ====== End Description Section ====== -->

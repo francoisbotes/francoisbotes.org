@@ -1,0 +1,47 @@
+<!-- ====== Description Section ====== -->
+<section id="description">
+  <div class="description">
+    <div class="description-one section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-7 col-md-6">
+            <div class="content">
+              {% if page.lang == "de" %}
+              <h1>Willkommen zu.</h1>
+              <h4>Francois Botes Prophetische Music Ministry</h4>
+              <p>Er wurde in Südafrika geboren. Nach dem Studium der klassischen Klavier und Gesang an der Universität er wieder im Jahr 1980. Im Jahr 1988 geboren wurde, begann er Vollzeitdienst und jetzt Minister weltweit durch Gottesdienst, Unterricht und das Prophetische Ministerium.
+
+            <br>
+              <br>
+              Er wird in das Vereinigte Königreich aus, wo er reist zu den Enden der Erde basiert.
+              </p>
+              {% else %}
+              <h1>Welcome to</h1>
+              <h4>Francois Botes Prophetic Music Ministry</h4>
+              <p>He was born in South Africa. After studying classical Piano and singing at University he got born again in 1980. In 1988 he started full-time ministry and now ministers worldwide in Worship, Teaching and the Prophetic Ministry.
+
+            <br>
+              <br>
+              He is based in the United Kingdom from where he travels to the ends of the earth.
+              </p>              
+              {% endif %}
+            </div>
+          </div>
+          <div class="col-sm-5 col-md-6">
+            <div class="app-image">
+              <img src="{{site.baseurl}}/assets/images/fbm.png" alt="">
+            </div>
+          </div>
+        </div> <!-- .container> .row -->
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+        {{content}}
+        </div>
+
+      </div> <!-- .container> .row 2 -->
+
+      </div> <!-- .container -->
+    </div> <!-- end .description-one -->
+  </div> <!-- end .description -->
+</section>
+<!-- ====== End Description Section ====== -->

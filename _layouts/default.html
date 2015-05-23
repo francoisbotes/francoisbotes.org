@@ -1,0 +1,41 @@
+---
+
+---
+{% assign t = site.tags.translations[0] %}
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+  <body>
+
+    <!-- ====== Menu Section ====== -->
+    {% include top-nav.html %}
+    <!-- ====== End Menu Section ====== -->
+
+    <!-- ====== Header Section ====== -->
+    {% include header.html %}
+    <!-- ====== End Header Section ====== -->
+
+    <!-- ====== Description Section ====== -->
+    {% include home/description.html %}
+    <!-- ====== End Description Section ====== -->
+
+    <!-- ====== Gallary Section ====== -->
+    {% include home/meetings.html %}
+    <!-- ====== End Gallary Section ====== -->
+
+    <!-- ====== Gallary Section ====== -->
+    {% include home/gallery.html %}
+    <!-- ====== End Gallary Section ====== -->
+
+
+    <!-- ====== Contact Section ====== -->
+    {% include contact.html %}
+    <!-- ====== End Contact Section ====== -->
+
+    <!-- ====== Footer Section ====== -->
+    {% include footer.html %}
+    <!-- ====== End footer Section ====== -->
+
+    {% include script.html %}
+  </body>
+</html>
