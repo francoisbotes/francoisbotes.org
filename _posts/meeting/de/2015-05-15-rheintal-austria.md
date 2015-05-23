@@ -2,19 +2,23 @@
 lang: de
 layout: calendar
 title: Rheintal Austria
-categories:
+categories: 
   - de
   - calendar
   - meeting
 city: Rheintal Austria
-meeting-date: 15 to 17 May
+"meeting-date": 15 to 17 May
 website: "www.vineyard-rheintal.at/aktuell.html"
 venue: "Vineyard Rheintal "
 published: true
 ---
 
 
+
 ![7391292.jpg]({{site.baseurl}}/assets/images/7391292.jpg)
+
+![freecov6.jpg]({{site.baseurl}}/assets/images/freecov6.jpg)
+
 
 
 ###Herzliche Einladung zu einem Seminar mit Francois Botes.
