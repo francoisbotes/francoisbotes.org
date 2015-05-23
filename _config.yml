@@ -26,6 +26,55 @@ prose:
     - /_layouts
     - /_includes
   metadata:
+        _posts:
+          - name: layout
+            field:
+              element: hidden
+              value: calendar
+          - name: title
+            field:
+              element: text
+              label: "Page title"
+              value: ""
+          - name: "categories"
+            field:
+              element: "multiselect"
+              label: "Add categories"
+              help: "Calendar: For German Language meeting select German,Calendar,Meeting. For English Language select Calendar, Meeting. Video: For German Language Video select German,Video. For English Language select Video."
+              placeholder: "Choose categories"
+              options:
+                - name: "German"
+                  value: de
+                - name: "Calendar"
+                  value: calendar
+                - name: "Meeting"
+                  value: meeting
+                - name: "Video"
+                  value: video
+          - name: lang
+            field:
+              element: "hidden"
+              value: "en"
+          - name: city
+            field:
+              element: text
+              label: "Meeting City"
+              value: ""
+          - name: meeting-date
+            field:
+              element: text
+              label: "Meeting date"
+              value: ""
+          - name: venue
+            field:
+              element: text
+              label: "Meeting venue"
+              value: ""
+          - name: website
+            field:
+              element: text
+              label: "Web site link"
+              value: ""
     _posts/de:
       - name: layout
         field:
