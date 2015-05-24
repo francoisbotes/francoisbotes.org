@@ -15,6 +15,7 @@ languages: &languages
     value: 'de'
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 prose:
   rooturl: '_posts'
