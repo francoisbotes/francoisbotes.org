@@ -6,6 +6,7 @@ title: "help-meeting"
 ---
 
 
+
 ##Adding a meeting
 
 **_>  Remember that this is a multilingual site English as Default and German as a secondary language. For every English page created you will need to also create a German version with the same name._**
@@ -23,18 +24,16 @@ To the far Right of your page editor you will find the Function providing the fo
 1. Edit
 Click edit to go back to edit your page.
 
-2. Preview
+**2. Preview**
 Click preview to open a new browser tab to preview your page as seen on the live site.
 
-3. Meta Data
+**3. Meta Data**
 Complete the form by filling in the blanks. Once complete click done to save the data in the form.
 
 _**Very important always**_ select the categories available. A helpful description is displayed above the categories filed to tell you what you need to do.
 
-4. Settings
+**4. Settings**
 Settings provides you the option to Delete the file or save it as a draft. Draft alows you to come back to the file at a later time and edit it without the changes showing on the live site.
 
-5. Changes to Save
+**5. Changes to Save**
 Click to save the page. To confirm that changes/updates you have made click "Confirm". You have the option to add a comment if you wish optional and required.
-
-
