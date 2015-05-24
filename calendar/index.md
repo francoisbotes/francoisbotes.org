@@ -1,5 +1,5 @@
 ---
 layout: calendar
 lang: en
-redirect_from: "/calender"
+redirect_from: "/calender/"
 ---
