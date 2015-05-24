@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: calendar
-published: false
+published: true
 title: Test 2 meeting
 categories: 
   - de
@@ -11,6 +11,7 @@ city: Hamburg
 "meeting-date": 30 March 2016
 venue: Church
 ---
+
 
 ## A New Post
 
