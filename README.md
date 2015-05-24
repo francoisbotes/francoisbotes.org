@@ -31,7 +31,7 @@ Go to the video provider that you have uploaded the video to. Each video provide
 4. Add your text and images if required in the normal way.
 5. By default the page is saved as "Unpublished". To have the hage show on your site you will need to click the "Unpublished" icon to set it to "Published". If at any time you would like to Unpublish the page then just click the "Published" icon and it will change to "Unpublished".
 
-#Prose.io content editor
+#How to use the Prose.io content editor
  
 ### Tool bar
 By clicking on the "?" icon in the toolbar you will find helpful dscriptions of for all the toolbar items available. 
