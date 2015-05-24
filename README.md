@@ -33,7 +33,7 @@ Go to the video provider that you have uploaded the video to. Each video provide
 
 #How to use the Prose.io content editor
 
-( [Prose.io](http://prose.io/#francoisbotes.org) ) is a simple content editor used for this site. 
+Click on this link ( [Prose.io](http://prose.io/#francoisbotes.org) ) to add Calendar and Media pages using Prose.io your simple content editor for this site. Autorise with your Github account and begin editing.
  
 ### Tool bar
 By clicking on the "?" icon in the toolbar you will find helpful dscriptions of for all the toolbar items available. 
