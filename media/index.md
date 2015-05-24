@@ -2,5 +2,5 @@
 layout: media
 title: Media Gallery
 lang: en
-redirect_from: "/video"
+redirect_from: "/video/"
 ---
