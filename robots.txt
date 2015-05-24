@@ -1,0 +1,5 @@
+# robots.txt for francoisbotes.org
+User-agent: *
+# Directories
+Disallow: /de/
+Sitemap: https://www.francoisbotes.org/sitemap.xml
