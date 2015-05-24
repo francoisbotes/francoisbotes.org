@@ -1,4 +1,5 @@
-baseurl: 
+baseurl:
+siteurl: 'http://francoisbotes.org'
 permalink: /:categories/:title
 markdown: rdiscount
 exclude:
