@@ -47,7 +47,7 @@ Click edit to go back to edit your page.
 Click preview to open a new browser tab to preview your page as seen on the live site.
  
 **3. Meta Data**
-Complete the form by filling in the blanks. Once complete click done to save the data in the form. _**Very important always**_ select the categories available. A helpful description is displayed above the categories filed to tell you what you need to do.
+Complete the form by filling in the blanks. Once complete click done to save the data in the form. Very_**important always**_ select the categories available. A helpful description is displayed above the categories filed to tell you what you need to do.
  
 **4. Settings**
 Settings provides you the option to Delete the file or save it as a draft. Draft alows you to come back to the file at a later time and edit it without the changes showing on the live site.
