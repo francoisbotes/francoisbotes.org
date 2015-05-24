@@ -171,7 +171,7 @@ textarea:focus {
    3. Section Header
 ========================================= */
 header .top {
-	background: url(/francoisbotes.org/assets/images/bg4.png) 50% no-repeat;
+	background: url(/assets/images/bg4.png) 50% no-repeat;
 	background-size: cover;
 }
 .top .photo-slide {
@@ -469,11 +469,11 @@ header .top {
    8. Section Testimonial
 ========================================= */
 #testimonial {
-	background: url(/francoisbotes.org/assets/images/bg4.jpg) 50% 0 no-repeat fixed;
+	background: url(/assets/images/bg4.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 .bg-testimonial {
-	background-image: url(/francoisbotes.org/assets/images/pattern5.png);
+	background-image: url(/assets/images/pattern5.png);
 }
 .testimonial .testimonial-slide {
 	width: 70%;
@@ -760,11 +760,11 @@ header .top {
    12. Section Download
 ========================================= */
 #download {
-	background: url(/francoisbotes.org/assets/images/bg5.jpg) 50% 0 no-repeat fixed;
+	background: url(/assets/images/bg5.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 .download {
-	background-image: url(/francoisbotes.org/assets/images/pattern5.png);
+	background-image: url(/assets/images/pattern5.png);
 }
 .download .underline:before,
 .download .underline:after {
