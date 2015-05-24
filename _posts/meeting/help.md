@@ -7,7 +7,7 @@ title: "help-meeting"
 
 
 
-##Adding a meeting
+#Adding a meeting
 
 >  Remember that this is a multilingual site English as Default and German as a secondary language. For every English page created you will need to also create a German version with the same name.
 
