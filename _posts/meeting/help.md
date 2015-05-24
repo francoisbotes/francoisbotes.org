@@ -9,7 +9,7 @@ title: "help-meeting"
 
 ##Adding a meeting
 
-**_>  Remember that this is a multilingual site English as Default and German as a secondary language. For every English page created you will need to also create a German version with the same name._**
+>  Remember that this is a multilingual site English as Default and German as a secondary language. For every English page created you will need to also create a German version with the same name.
 
 1. Go to the meeting folder then click the Green button "NEW FILE". 
 2. On the new page replace the "Untitled" with the tiltle you wnat for your new page.
