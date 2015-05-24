@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About me
+redirect_from: "/about-1/"
 categories: about
 lang: en
 ---
