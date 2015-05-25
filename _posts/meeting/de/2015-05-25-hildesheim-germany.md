@@ -15,6 +15,7 @@ website: "www.ecclesia-hi.de/"
 
 
 
+
 Wie kann ich
  Gottes Stimme hören?
  Francois Botes (England),
@@ -34,4 +35,3 @@ Rex-Brauns-Str. 4, 31139 Hildesheim
 
 ![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
