@@ -1,9 +1,10 @@
 ---
 lang: de
 layout: calendar
-published: false
+published: true
 title: HILDESHEIM germany
 ---
+
 
 Wie kann ich
  Gottes Stimme hören?
