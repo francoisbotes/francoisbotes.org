@@ -23,8 +23,11 @@ Wie kann ich
  wird über dieses wichtige Thema lehren.
  
  Fr. 29. Mai, 19 Uhr Gottesdienst
+ 
  Sa. 30. Mai, 10-13 Uhr Seminar
+ 
  19 Uhr Gottesdienst
+ 
  So. 31. Mai, 10 Uhr Gottesdienst
 
 Evangelische Freikirche Ecclesia,
