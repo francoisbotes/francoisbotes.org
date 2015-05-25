@@ -12,7 +12,8 @@ venue: ECCLESIA HILDESHEIM
 website: "www.ecclesia-hi.de"
 ---
 
-29 to 31 May###
+
+### 29 to 31 May
 
 
 
