@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: HILDESHEIM Germany
 categories: 
   - calendar
@@ -11,6 +11,7 @@ city: Hildesheim Germany
 venue: ECCLESIA HILDESHEIM
 website: "www.ecclesia-hi.de"
 ---
+
 
 
 ### 29 to 31 May
