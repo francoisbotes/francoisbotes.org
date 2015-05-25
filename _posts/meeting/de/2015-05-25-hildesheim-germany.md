@@ -3,7 +3,16 @@ lang: de
 layout: calendar
 published: true
 title: HILDESHEIM germany
+categories: 
+  - de
+  - calendar
+  - meeting
+city: HILDESHEIM
+"meeting-date": 29 to 31 Mai
+venue: ECCLESIA HILDESHEIM
+website: "www.ecclesia-hi.de/"
 ---
+
 
 
 Wie kann ich
