@@ -14,6 +14,7 @@ website: "www.ecclesia-hi.de"
 
 
 
+
 ### 29 to 31 May
 
 Wie kann ich
@@ -32,3 +33,6 @@ Wie kann ich
 
 Evangelische Freikirche Ecclesia,
 Rex-Brauns-Str. 4, 31139 Hildesheim
+
+![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
+
