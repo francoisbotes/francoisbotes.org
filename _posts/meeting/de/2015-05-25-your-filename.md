@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: calendar
-published: false
+published: true
 title: HILDESHEIM GERMANY
 categories: 
   - de
