@@ -2,7 +2,7 @@
 lang: de
 layout: calendar
 published: true
-title: HILDESHEIM GERMANY
+title: HILDESHEIM Germany
 categories: 
   - de
   - calendar
@@ -12,6 +12,7 @@ city: HILDESHEIM
 venue: ECCLESIA HILDESHEIM
 website: "www.ecclesia-hi.de"
 ---
+
 
 
 
