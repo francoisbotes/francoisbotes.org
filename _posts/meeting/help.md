@@ -12,8 +12,9 @@ title: "help-meeting"
 
 1. Go to the meeting folder then click the Green button "NEW FILE". 
 2. On the new page replace the "Untitled" with the title you want for your new page.
-3. Place your cursor in below the "Tool Bar" and start adding your text and images.
-4. By default the page is saved as "Unpublished". To have the page show on your site you will need to click the "Unpublished" icon to set it to "Published". If at any time you would like to Unpublish the page then just click the "Published" icon and it will change to "Unpublished".
+3. On the Function bar click the Meta Data icon and complete the form. Click done and then click the Save icon on the Function bar then click the "Commit" button to save the changes.
+4. Place your cursor in below the "Tool Bar" and start adding your text and images.
+5. By default the page is saved as "Unpublished". To have the page show on your site you will need to click the "Unpublished" icon to set it to "Published". If at any time you would like to Unpublish the page then just click the "Published" icon and it will change to "Unpublished".
 
 ### Tool bar
 By clicking on the "?" icon in the toolbar you will find helpful descriptions of for all the toolbar items available. 
