@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: Evangelische Gemeinde Rodewisch Germany
 categories: 
   - calendar
@@ -11,6 +11,7 @@ city: Rodewisch Germany
 venue: EFG Rodewisch
 website: "www.efg-rodewisch.de"
 ---
+
 
 Vom 11. bis 14. Juni 2015 ist Francois Botes in unsrer Gemeinde zu Gast.
 
