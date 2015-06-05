@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: Wolfsburg Germany
 categories: 
   - calendar
@@ -11,6 +11,7 @@ city: Wolfsburg
 venue: Christliche Veranstaltungs Zentrum
 website: "www.cvz-wob.de"
 ---
+
 
 19 to 21 June
 Christliche Veranstaltungs Zentrum Wolfsburg![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
