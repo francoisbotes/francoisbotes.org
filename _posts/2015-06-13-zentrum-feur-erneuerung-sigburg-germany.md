@@ -2,7 +2,7 @@
 lang: en
 layout: calendar
 published: false
-title: Zentrum Feur Erneuerung Sigburg Germany
+title: Zentrum Feur Erneuerung Siegburg Germany
 categories: 
   - calendar
   - meeting
