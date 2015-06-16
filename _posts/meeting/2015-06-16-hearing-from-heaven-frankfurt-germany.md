@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: Hearing From Heaven Frankfurt Germany
 categories: 
   - calendar
@@ -12,5 +12,5 @@ venue: Kingdom Life Church Frankfurt
 website: "www.kingdomlife-frankfurt.com"
 ---
 
-![large1.png]({{site.baseurl}}/assets/images/large1.png)
 
+![large1.png]({{site.baseurl}}/assets/images/large1.png)
