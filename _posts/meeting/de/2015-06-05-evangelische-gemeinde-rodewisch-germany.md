@@ -7,7 +7,12 @@ categories:
   - meeting
 published: true
 title: Evangelische Gemeinde Rodewisch Germany
+city: Rodewisch Germany
+"meeting-date": 11 to 14 June
+venue: EFG Rodewisch
+website: "www.efg-rodewisch.de"
 ---
+
 
 
 
