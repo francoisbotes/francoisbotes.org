@@ -12,6 +12,5 @@ venue: Kingdom Life Church Frankfurt
 website: "www.kingdomlife-frankfurt.com"
 ---
 
-## A New Post
+![large1.png]({{site.baseurl}}/assets/images/large1.png)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
