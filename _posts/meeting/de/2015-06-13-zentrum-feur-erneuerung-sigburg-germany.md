@@ -3,7 +3,7 @@ lang: en
 layout: calendar
 published: true
 title: Zentrum Feur Erneuerung Siegburg Germany
-categories:
+categories: 
   - de
   - calendar
   - meeting
@@ -12,6 +12,7 @@ city: Siegburg Germany
 venue: Siegburg Germany
 website: "www.zentrum-fuer-erneuerung.de"
 ---
+
 
 
 Lobpreis und Prophetie 24.08.- 26.08.2015
