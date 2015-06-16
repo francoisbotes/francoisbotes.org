@@ -2,7 +2,7 @@
 lang: en
 layout: calendar
 published: false
-title: ""
+title: Zentrum Feur Erneuerung Siegburg Germany
 categories: 
   - de
   - calendar
