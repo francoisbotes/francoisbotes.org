@@ -5,7 +5,7 @@ categories:
   - de
   - calendar
   - meeting
-published: false
+published: true
 title: Evangelische Gemeinde Rodewisch Germany
 ---
 
