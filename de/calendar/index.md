@@ -1,4 +1,4 @@
 ---
-layout: calendar
+layout: calendar-home
 lang: de
 ---
