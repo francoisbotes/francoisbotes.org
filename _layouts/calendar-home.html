@@ -1,0 +1,29 @@
+---
+
+---
+{% assign t = site.tags.translations[0] %}
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+  <body>
+    <!-- ====== Menu Section ====== -->
+    {% include top-nav.html %}
+    <!-- ====== End Menu Section ====== -->
+    <section id="meetings">
+      <div class="meetings">
+        <div class="container">
+          <div class="meetings">
+          {% include home/meetings.html %}
+          </div>
+        </div> <!-- end .container -->
+      </div> <!-- end .meetings -->
+    </section>
+    <!-- ====== End meetings Section ====== -->
+
+    <!-- ====== Footer Section ====== -->
+    {% include footer.html %}
+    <!-- ====== End footer Section ====== -->
+
+    {% include script.html %}
+  </body>
+</html>
