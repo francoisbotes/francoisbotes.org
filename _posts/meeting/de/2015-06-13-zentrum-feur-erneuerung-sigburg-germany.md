@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: true
+published: false
 title: Zentrum Feur Erneuerung Siegburg Germany
 categories: 
   - de
@@ -12,6 +12,7 @@ city: Siegburg Germany
 venue: Siegburg Germany
 website: "www.zentrum-fuer-erneuerung.de"
 ---
+
 
 
 
