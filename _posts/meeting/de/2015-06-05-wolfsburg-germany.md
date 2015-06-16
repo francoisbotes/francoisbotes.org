@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: true
+published: false
 title: Wolfsburg Germany
 categories: 
   - de
@@ -12,6 +12,7 @@ city: Wolfsburg
 venue: Christliche Veranstaltungs Zentrum
 website: "www.cvz-wob.de"
 ---
+
 
 
 
