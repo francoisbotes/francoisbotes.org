@@ -5,6 +5,9 @@ body {
 .dark-bg {
 	background-color: #F2F3FD;
 }
+.white-bg {
+	background-color: #FFF;
+}
 h1 {
 	color: #111;
 }
