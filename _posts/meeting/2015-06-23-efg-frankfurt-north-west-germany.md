@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: EFG Frankfurt North West Germany
 categories: 
   - calendar
@@ -12,5 +12,5 @@ venue: Frankfurt Germany
 website: "www.efg-frankfurt-northwest.de"
 ---
 
-![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
 
+![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
