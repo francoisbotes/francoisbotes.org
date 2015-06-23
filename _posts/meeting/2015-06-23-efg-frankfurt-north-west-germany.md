@@ -12,6 +12,5 @@ venue: Frankfurt Germany
 website: "www.efg-frankfurt-northwest.de"
 ---
 
-## A New Post
+![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
