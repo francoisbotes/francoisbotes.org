@@ -12,6 +12,5 @@ venue: Jesus Gemeinde
 website: "www.jesus-gemeinde.info"
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
+![2.jpeg]({{site.baseurl}}/assets/images/2.jpeg)
