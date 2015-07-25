@@ -12,5 +12,5 @@ venue: Congregational church Newport
 website: "  www.newportcongregationalchurch.org.uk"
 ---
 
-![2.jpeg]({{site.baseurl}}/assets/images/2.jpeg)
 
+![2.jpeg]({{site.baseurl}}/assets/images/2.jpeg)
