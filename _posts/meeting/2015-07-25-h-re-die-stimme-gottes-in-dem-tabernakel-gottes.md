@@ -9,8 +9,9 @@ categories:
 city: Austria
 "meeting-date": 17 to 20 September
 venue: Key of David Austria
-website: www.keyofdavid.at
+website: "http://www.keyofdavid.at/en/seminars/event/0/15-weitere-seminare/125-hoere-die-stimme-gottes-in-dem-tabernakel-gottes-mit-francois-botes"
 ---
+
 
 
 
