@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: Congregational Church Newport Isle of Wight
 categories: 
   - calendar
