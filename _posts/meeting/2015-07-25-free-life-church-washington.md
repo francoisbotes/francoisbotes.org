@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: Free Life Church Washington
 categories: 
   - calendar
@@ -14,5 +14,5 @@ website: www.freelifechurchva.com/
 
 
 
-![francios_botes_2015_5.jpg]({{site.baseurl}}/assets/images/francios_botes_2015_5.jpg)
 
+![francios_botes_2015_5.jpg]({{site.baseurl}}/assets/images/francios_botes_2015_5.jpg)
