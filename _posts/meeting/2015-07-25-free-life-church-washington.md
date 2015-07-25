@@ -14,4 +14,5 @@ website: www.freelifechurchva.com/
 
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![francios_botes_2015_5.jpg]({{site.baseurl}}/assets/images/francios_botes_2015_5.jpg)
+
