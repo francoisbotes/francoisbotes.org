@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: "Höre die Stimme Gottes in dem Tabernakel Gottes "
 categories: 
   - calendar
@@ -12,6 +12,7 @@ venue: Key of David Austria
 website: "http://www.keyofdavid.at/en/seminars/event/0/15-weitere-seminare/125-hoere-die-stimme-gottes-in-dem-tabernakel-gottes-mit-francois-botes"
 ---
 
+
 Höre die Stimme Gottes in dem Tabernakel Gottes 
 Francois Botes stammt ursprünglich aus Südafrika und lebt in Größbritannien. Weltweit dient er Gemeinden mit seiner Berufung als Prophet. Er studierte Musik, insbesondere Klavier und diese Gabe setzt er ein, um das Wort Gottes zu verkündigen und im prophetischen Bereich zu dienen.
 
@@ -20,5 +21,3 @@ Wir freuen uns sehr, dass Francois uns so viel Zeit in diesem Jahr gönnt!. Wir 
 Zudem ist er ein Lehrer, der das Wort Gottes mit Freimut und Humor predigt, und ein Mann mit einem hohen Gespür für das, was Gott in unserer Zeit tun will.
 
 Statt irgendwo Urlaub zu machen, wo man jetzt keine Sicherheit mehr hat, komm zu uns und verbringe lieber kostbare Zeit im Vaterhaus hier im schönen Gusental. Lass Gott ganz persönlich mit dir reden und dich lieben.  Erwartet Gott für dein persönliches Wunder…
-
-
