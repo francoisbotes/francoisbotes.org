@@ -9,7 +9,7 @@ categories:
 city: Austria
 "meeting-date": 17 to 20 September
 venue: Key of David Austria
-website: "http://www.keyofdavid.at/en/seminars"
+website: "http://www.keyofdavid.at"
 ---
 
 
