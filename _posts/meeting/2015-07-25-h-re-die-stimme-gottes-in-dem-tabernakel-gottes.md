@@ -13,6 +13,7 @@ website: "http://www.keyofdavid.at/en/seminars/event/0/15-weitere-seminare/125-h
 ---
 
 
+
 Höre die Stimme Gottes in dem Tabernakel Gottes 
 Francois Botes stammt ursprünglich aus Südafrika und lebt in Größbritannien. Weltweit dient er Gemeinden mit seiner Berufung als Prophet. Er studierte Musik, insbesondere Klavier und diese Gabe setzt er ein, um das Wort Gottes zu verkündigen und im prophetischen Bereich zu dienen.
 
