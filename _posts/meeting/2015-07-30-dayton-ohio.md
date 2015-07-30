@@ -9,7 +9,9 @@ categories:
 city: Dayton Ohio
 "meeting-date": "21 to 22 August @ 06h30 PM"
 venue: 900 Taywood road Englewood Dayton OH
+website: www.daytonhealingrooms.org
 ---
+
 
 
 ![2.jpg]({{site.baseurl}}/assets/images/2.jpg)
