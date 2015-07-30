@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: Dayton Ohio
 categories: 
   - calendar
@@ -11,5 +11,5 @@ city: Dayton Ohio
 venue: 900 Taywood road Englewood Dayton OH
 ---
 
-![2.jpg]({{site.baseurl}}/assets/images/2.jpg)
 
+![2.jpg]({{site.baseurl}}/assets/images/2.jpg)
