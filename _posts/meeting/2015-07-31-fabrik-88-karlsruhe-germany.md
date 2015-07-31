@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: calendar
-published: false
+published: true
 title: Fabrik 88 Karlsruhe Germany
 categories: 
   - calendar
@@ -12,5 +12,5 @@ venue: Fabrik 88
 website: www.fabrik88.de
 ---
 
-![FBotes2015.jpg]({{site.baseurl}}/assets/images/FBotes2015.jpg)
 
+![FBotes2015.jpg]({{site.baseurl}}/assets/images/FBotes2015.jpg)
