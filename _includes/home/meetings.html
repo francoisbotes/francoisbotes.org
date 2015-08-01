@@ -24,7 +24,6 @@
         <div class="col-md-12 meeting-list">
           <div class="row">
             {% for post in site.categories.meeting %}
-             {% if post.lang == page.lang %}
             <div class="col-md-6">
               <div class="meetingd-item">
                 <div class="icon">
@@ -37,18 +36,13 @@
                   <h4>Venue: {{post.venue}}</h4>
                   <p><a href="http://{{post.website}}">{{post.website}}</a></p>
                   <div class="button" id="download-app2">
-                    {% if page.lang == 'de' %}
-                    <a <a href="{{site.baseurl}}{{post.url}}/" class="btn btn-default btn-lg custom-btn get-btn"><i class="fa fa-read"></i>Weiterlesen</a>
-                    {% else %}
                     <a <a href="{{site.baseurl}}{{post.url}}/" class="btn btn-default btn-lg custom-btn get-btn"><i class="fa fa-read"></i>Read more</a>
-                    {% endif %}
                   </div>
                   <p>{{post.description}}</p>
 
                 </div> <!-- end .meta-text -->
               </div> <!-- end .meetingd-item -->
             </div> <!-- end .meeting-list> .row > .col-md-6 (1st item) -->
-             {% endif %}
             {% endfor %}
           </div> <!-- end .meeting-list> .row -->
         </div> <!-- end .meeting-list -->
