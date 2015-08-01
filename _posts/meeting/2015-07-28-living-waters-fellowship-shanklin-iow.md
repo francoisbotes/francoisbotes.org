@@ -11,5 +11,5 @@ city: Shanklin IOW
 venue: Living Waters fellowship
 ---
 
-
 ![francois leaflet august 2015  A4.jpg]({{site.baseurl}}/assets/images/francois leaflet august 2015  A4.jpg)
+
