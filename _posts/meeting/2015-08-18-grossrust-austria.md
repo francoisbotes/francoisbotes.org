@@ -12,4 +12,3 @@ title: Grossrust Austria
 ---
 
 
-![1.jpeg]({{site.baseurl}}/assets/images/1.jpeg)
