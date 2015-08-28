@@ -2,7 +2,7 @@
 lang: en
 layout: calendar
 published: true
-title: "Höre die Stimme Gottes in dem Tabernakel Gottes "
+title: Anbetung und prophetie in der Endzeit
 categories: 
   - calendar
   - meeting
