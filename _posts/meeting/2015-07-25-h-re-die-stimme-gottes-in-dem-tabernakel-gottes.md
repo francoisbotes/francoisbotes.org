@@ -2,7 +2,7 @@
 lang: en
 layout: calendar
 published: true
-title: Anbetung und prophetie in der Endzeit
+title: Anbetung und Prophetie in der Endzeit
 categories: 
   - calendar
   - meeting
