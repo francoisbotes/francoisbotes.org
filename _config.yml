@@ -130,7 +130,8 @@ prose:
     _posts/meeting:
       - name: layout
         field:
-          element: hidden
+          element: text
+          label: Layout
           value: calendar
       - name: title
         field:
