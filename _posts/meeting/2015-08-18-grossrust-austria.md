@@ -7,7 +7,7 @@ city: Grossrust Austria
 "meeting-date": 4 to 6 September
 venue: Freie Christen Gemeinde Grossrust
 website: www.grossrust.fcgoe.at
-published: true
+published: false
 title: Grossrust Austria
 ---
 
