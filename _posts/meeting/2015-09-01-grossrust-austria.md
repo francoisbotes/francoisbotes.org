@@ -9,5 +9,6 @@ venue: Freie Christen Gemeinde Grossrust
 website: www.grossrust.fcgoe.at
 published: true
 title: Grossrust Austria
+layout: calendar
 ---
 
