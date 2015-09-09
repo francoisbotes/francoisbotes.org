@@ -12,5 +12,5 @@ published: true
 title: Ludwigsburg Germany
 ---
 
-![index.jpg]({{site.baseurl}}/assets/images/index.jpg)
+![Francois B. Okt.[1].jpg]({{site.baseurl}}/assets/images/Francois B. Okt.[1].jpg)
 
