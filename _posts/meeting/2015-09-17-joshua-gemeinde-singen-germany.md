@@ -8,9 +8,9 @@ city: Singen Germany
 "meeting-date": "4 -6 October"
 venue: Joshua Gemeinde Singen
 website: "www.joshuagemeinde-singen.de"
-published: false
+published: true
 title: Joshua Gemeinde Singen Germany
 ---
 
-![flyer.jpg]({{site.baseurl}}/assets/images/flyer.jpg)
 
+![flyer.jpg]({{site.baseurl}}/assets/images/flyer.jpg)
